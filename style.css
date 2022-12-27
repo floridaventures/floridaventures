@@ -206,7 +206,7 @@ header .banner {
     color: #fff;
 }
 .skills .skills-thumb {
-   margin-bottom: 5%;
+   margin-bottom: 0%;
 }
 /*skills end*/
 
@@ -248,8 +248,10 @@ header .banner {
 
 /*footer*/
 footer {
-    background: url("https://scontent-mia3-2.xx.fbcdn.net/v/t1.6435-9/122703560_145763557271874_8250580605062837229_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=0debeb&_nc_ohc=2IXMZqh1MdQAX_NXFfY&_nc_ht=scontent-mia3-2.xx&oh=00_AfDuymEYLgReX9k-_Ukys7HVEq8S8KyQtlYUjHbNM7JREA&oe=63D2B516");
-    background-size: cover;
+    background: url("https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/298909089_531227845453684_1232585738909518693_n.png?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Cls30bjkIEAAX_rhr20&_nc_ht=scontent-mia3-1.xx&oh=00_AfDpM5wnmp3OpRBUYzbykt9YD6ckMGxNQx8hq9rEwnX-aQ&oe=63AF13B8");
+    background-size: contain;
+    background-color: #fff;
+    background-repeat: no-repeat;
     color: rgb(4, 4, 4);
 }
 footer h2 {
